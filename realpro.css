@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+body{
+    font-family: 'Teko', sans-serif;
+}
+#title{
+    background-color: #7eb5f0;
+    color: #fff;
+    
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+/*arange h1*/
+h1{
+    font-size: 2.5rem;
+    font-family: 'Roboto Mono', monospace ;
+    line-height: 1.5;
+}
+h3{
+    font-size: 2rem;
+    font-family: 'Roboto Mono', monospace ;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-size: 3rem;
+    font-weight: bold;
+}
+.navbar-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 2.5rem;
+}
+/*button*/
+.button{
+    margin: 5% 3% 5% 0;
+}
+.button:hover{
+    background-color: #c0d8f1;
+}
+/*img-m*/
+.img-m{
+    width: 100%;
+}
+/*feutures*/
+#feutures{
+    padding: 5% 15%;
+}
+/* hadhawo soo gali icon sizekooxda*/
+.feutures-box{
+    text-align: center;
+    padding: 4%;
+}
+.icon{
+    color: #f7284b;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.icon:hover{
+    background-color: #aa6d77;
+}
+.icon2{
+    color: #62abfa;
+    margin-bottom: 1rem;
+}
+.icon3{
+    color: #d8d65d;
+    margin-bottom: 1rem;
+}
+
+/*testamonial*/
+#testamonial{
+   background-color: #7eb5f0;
+   text-align: center;
+   color: #fff;
+}
+.testamonial-sawir{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* cursoul item*/
+
+.carousel-item{
+    padding: 7% 15%;
+}
+/*logo*/
+#logo{
+    background-color: #7eb5f0; 
+    padding: 7% 15%;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
